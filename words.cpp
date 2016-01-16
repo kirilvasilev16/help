@@ -9,7 +9,7 @@ int main()
     cin>>k;
     for(i=0; i<k; i++)
     {
-        cin>>m[i]>>n[i];
+        cin>>m[i];
     }
     for(i=0; i<k; i++)
     {
